@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+
+}
+.full{
+height: 37.4rem;
+width: 27rem;
+border: 2rem;
+background-color: rgb(22, 22, 22);
+margin-top: 5rem;
+margin-left: 24rem;
+border-radius: 2rem;
+}
+#box{
+    margin-top: 1rem;
+    width: 25rem;
+    margin-left: .5rem;
+    height: 5.5rem;
+    border-radius: 1.5rem;
+    background-color: rgb(213, 213, 201);
+    font-size: x-large;
+}
+.b1{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    
+    
+    
+}
+.b11{
+    margin: .5rem;
+    width: 5rem;
+    height: 4rem;
+    border-radius: 10rem;
+}
+p{
+    margin-top: 5rem;
+
+}
+span{
+    font-weight: 700;
+    font-size: x-large;
+}
